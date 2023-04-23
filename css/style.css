@@ -21,6 +21,8 @@ body {
   letter-spacing: 0.02em;
   text-decoration: none;
   text-transform: none;
+  color: #434455;
+  background-color: white;
 }
 /* Base styles */
 .title {
