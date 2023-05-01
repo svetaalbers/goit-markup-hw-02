@@ -153,9 +153,11 @@ body {
 
 /* Team styles */
 .team {
+  background-color: #f4f4fd;
+}
+.team-item {
   background-color: #ffffff;
 }
-
 /* Footer styles */
 
 .footer {
