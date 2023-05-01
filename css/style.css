@@ -46,6 +46,7 @@ body {
   text-transform: capitalize;
   line-height: 1.11;
   color: #2e2f42;
+  text-align: center;
 }
 .undertitle {
   font-size: 20px;
@@ -152,7 +153,7 @@ body {
 
 /* Team styles */
 .team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 
 /* Footer styles */
