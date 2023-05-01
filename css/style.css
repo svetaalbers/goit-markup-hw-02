@@ -34,6 +34,8 @@ body {
   text-decoration: none;
   text-transform: none;
   color: white;
+  line-height: 1.07;
+  text-align: center;
 }
 .section-title {
   font-size: 36px;
@@ -117,7 +119,7 @@ body {
   font-style: normal;
   letter-spacing: 0.02em;
 }
-.header-address {
+.header-contact-list {
   font-style: normal;
 }
 /* Hero styles */
@@ -128,15 +130,19 @@ body {
 
 .hero-btn {
   background: #4d5ae5;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   color: white;
   cursor: pointer;
+  letter-spacing: 0.04em;
 }
 .hero-btn:hover {
+  background: #404bbf;
+}
+.hero-btn:focus {
   background: #404bbf;
 }
 /* Features styles */
